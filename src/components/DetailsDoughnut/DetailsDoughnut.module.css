@@ -1,0 +1,27 @@
+.form {
+	display: flex;
+	justify-content: space-between;
+	color: #003049;
+}
+
+.img {
+	height: 12rem;
+	border-radius: 10px;
+}
+
+.main {
+	width: 24rem;
+}
+
+.summary {
+	display: flex;
+	justify-content: space-around;
+	padding: 1rem 0.3rem;
+	align-items: center;
+}
+
+.price {
+	font-weight: bold;
+	color: #c1121f;
+	font-size: 1.2rem;
+}

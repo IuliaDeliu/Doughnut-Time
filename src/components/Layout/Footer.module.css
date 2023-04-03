@@ -1,0 +1,41 @@
+
+
+.footer {
+	position: relative;
+	width: 100%;
+	background-color: #c1121f;
+	padding: 0 10%;
+	box-shadow: 0 -2px 8px 0 rgba(252, 231, 231, 0.5);
+	z-index: 50;
+}
+
+
+.sb__footer_links_div {
+	
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	color: #fdf0d5;
+	text-align: center;
+	
+}
+
+
+
+h3, h5{
+	padding: 0;
+	margin: 6px;
+}
+h3{
+	margin-top: 20px;
+}
+
+a {
+	color: #fdf0d5;
+	text-decoration: none;
+}
+
+
+a:hover {
+	text-decoration: underline;
+}

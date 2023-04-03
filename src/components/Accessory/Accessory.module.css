@@ -1,0 +1,7 @@
+.main-image {
+	width: 100%;
+	z-index: 0;
+	overflow: hidden;
+	background-size: cover;
+	margin-top: -8rem;
+}

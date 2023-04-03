@@ -1,0 +1,9 @@
+.main {
+	max-height: 22rem;
+	overflow: auto;
+}
+
+.main p {
+	color: #003049;
+	font-size: 0.8rem;
+}

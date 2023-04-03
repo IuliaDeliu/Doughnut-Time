@@ -1,0 +1,48 @@
+.main {
+	margin-top: 10rem;
+	padding: 0 10%;
+	color: #003049;
+}
+
+.modul {
+	display: flex;
+	padding: 1.5rem 2rem;
+	border-radius: 1rem;
+	margin-bottom: 3rem;
+	justify-content: space-around;
+	align-items: center;
+	background-color: #fdf0d5;
+}
+
+.modul img {
+	height: 25rem;
+	border-radius: 25px;
+}
+
+.modul h2 {
+	color: #669bbc;
+}
+
+.content {
+	width: 40rem;
+}
+
+.content p {
+	line-height: 22px;
+}
+
+.button a {
+	background-color: #669bbc;
+	color: #fdf0d5;
+	text-decoration: none;
+	padding: 7px 15px;
+	border-radius: 15px;
+	font-weight: bold;
+}
+
+.button a:hover,
+.button a:active {
+	background-color: #003049;
+	border: 1px solid #003049;
+	color: #fdf0d5;
+}

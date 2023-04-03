@@ -1,0 +1,22 @@
+.doughnuts {
+	margin: 2rem auto;
+}
+
+.doughnuts ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	padding: 0 10%;
+	display: grid;
+	grid-template-columns: repeat(4, 1fr);
+	gap: 2rem;
+}
+
+.DoughnutsLoading {
+	text-align: center;
+}
+
+.DoughnutsError {
+	text-align: center;
+	color: red;
+}
